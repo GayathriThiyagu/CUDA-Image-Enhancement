@@ -1,0 +1,11 @@
+# CUDA and NPP are system libraries and not installed via pip
+# This file documents the system requirements
+
+System Requirements:
+- NVIDIA GPU with Compute Capability 3.5+
+- CUDA Toolkit 11.0 or higher
+- NVIDIA NPP (NVIDIA Performance Primitives) library
+- GCC/G++ compiler
+- NVCC compiler
+
+Note: These are system-level installations, not Python packages.
